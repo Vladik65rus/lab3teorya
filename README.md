@@ -217,7 +217,7 @@ def parse_E():
     if current_token().type in ['PLUS', 'MINUS', 'MULTIPLY', 'DIVIDE']:
         next_token()  # Потребляем оператор
         parse_E()      # Разбор правого операнда4
-```
+
 def _add_error(self, expected, found):
     """Добавляет ошибку в список (нейтрализация - анализ продолжается)"""
     token = self._current_token()
@@ -243,6 +243,7 @@ def synchronize(self, follow_set):
     while self._current_token() and self._current_token().type not in follow_set:
         self._add_error("синхронизация", self._current_token().value)
         self.pos += 1
+   ```
 
 ## Скриншот интерфейса:
 ### Пример 1: Корректная строка
