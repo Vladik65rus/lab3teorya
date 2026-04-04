@@ -246,22 +246,10 @@ def synchronize(self, follow_set):
    ```
 
 ## Скриншот интерфейса:
-### Пример 1: Корректная строка
-<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/2f5fb927-2fc4-4526-8f4a-b46fdbe48364" />
-### Пример 2: Пропущена запятая между параметрами
+<img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/515da581-f386-4281-8c13-84a6d8c61de6" />
 
-<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/cc06eaf2-0626-481f-bf47-4f6f8e5c05db" />
 
-### Пример 3: Пропущена точка с запятой после закрывающей скобки
 
-<img width="1916" height="1031" alt="image" src="https://github.com/user-attachments/assets/b71e73c1-8662-4ca3-b7a4-c417072fe1f5" />
-
-### Пример 4: Неверный тип возврата
-
-<img width="1914" height="1033" alt="image" src="https://github.com/user-attachments/assets/82b215b6-7a39-4a71-8d44-17a12d399d2b" />
-
-### Пример 5: Несколько ошибок в одной строке (демонстрация метода Айронса)****
-<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/fed5a89f-6266-44af-b38f-66973e6b4c59" />
 
 ###Пример 6: Многострочный пример
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/b02f6291-14ed-49fa-a1dc-eda0df8bb9bb" />
