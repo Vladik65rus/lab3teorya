@@ -248,9 +248,3 @@ def synchronize(self, follow_set):
 ## Скриншот интерфейса:
 <img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/515da581-f386-4281-8c13-84a6d8c61de6" />
 
-
-
-
-###Пример 6: Многострочный пример
-<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/b02f6291-14ed-49fa-a1dc-eda0df8bb9bb" />
-
