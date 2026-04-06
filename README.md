@@ -255,8 +255,8 @@ fun calc(a: Int, b: Int, c: Int): Int {
 
 
 ## Схема метода анализа
-<img width="733" height="2805" alt="graphviz" src="https://github.com/user-attachments/assets/9bd74ea0-e41e-4973-a40f-e8de5375124b" />
 
+<img width="417" height="2289" alt="graphviz (1)" src="https://github.com/user-attachments/assets/6ee21721-a4c3-43b6-b940-801f1ebeb861" />
 
 
 ## Диагностика и нейтрализация ошибок методом Айронса
