@@ -202,8 +202,9 @@ fun calc(a: Int, b: Int, c: Int): Int {
 
 
 ## Схема метода анализа
+<img width="733" height="2805" alt="graphviz" src="https://github.com/user-attachments/assets/9bd74ea0-e41e-4973-a40f-e8de5375124b" />
 
-<img width="5636" height="5622" alt="1435" src="https://github.com/user-attachments/assets/7c38f936-63ce-4599-8522-73dca8f48971" />
+
 
 ## Диагностика и нейтрализация ошибок методом Айронса
 ### Основные принципы метода
