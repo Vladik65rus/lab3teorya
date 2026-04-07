@@ -372,4 +372,5 @@ fun calc(a: Int, b: Int, c: Int): Int {
 
 <img width="1404" height="943" alt="image" src="https://github.com/user-attachments/assets/af27459b-4b01-41a0-b7eb-2472e60e7014" />
 
-<img width="1392" height="948" alt="image" src="https://github.com/user-attachments/assets/48bc57a8-73d6-41d8-8cfb-21e26cf523c0" />
+<img width="1400" height="947" alt="image" src="https://github.com/user-attachments/assets/3b2f18ed-477b-4023-889a-0a24ee7dd518" />
+
