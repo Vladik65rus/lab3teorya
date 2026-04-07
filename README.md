@@ -363,3 +363,13 @@ fun calc(a: Int, b: Int, c: Int): Int {
 Навигация по ошибкам: при щелчке на строке таблицы курсор в области редактирования устанавливается на позицию ошибочного фрагмента
 ## Скриншот интерфейса:
 <img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/515da581-f386-4281-8c13-84a6d8c61de6" />
+
+<img width="1386" height="936" alt="image" src="https://github.com/user-attachments/assets/d0eb8e79-bad4-4967-9c51-68d6bb9560a4" />
+
+<img width="1406" height="951" alt="image" src="https://github.com/user-attachments/assets/520f4042-cdff-4de1-b7a7-9591307a567e" />
+
+<img width="1405" height="951" alt="image" src="https://github.com/user-attachments/assets/6f5f4408-e058-4c92-991b-7820ff2ed83d" />
+
+<img width="1404" height="943" alt="image" src="https://github.com/user-attachments/assets/af27459b-4b01-41a0-b7eb-2472e60e7014" />
+
+<img width="1392" height="948" alt="image" src="https://github.com/user-attachments/assets/48bc57a8-73d6-41d8-8cfb-21e26cf523c0" />
